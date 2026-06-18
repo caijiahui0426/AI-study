@@ -1,0 +1,15 @@
+{
+  "id": "leander-base",
+  "name": "Leander Base",
+  "description": "A restrained Westwell-style PPT theme adapted from internal product decks and compatible with web-video-presentation theme thinking.",
+  "fonts": {
+    "cn": "Microsoft YaHei",
+    "en": "Century Gothic",
+    "fallback": "Arial"
+  },
+  "sourceInspiration": [
+    "岸桥自动化系统产品介绍.pptx",
+    "cactus产品介绍202606051600.pptx",
+    "web-video-presentation theme token model"
+  ]
+}
